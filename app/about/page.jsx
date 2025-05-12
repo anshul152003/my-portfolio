@@ -116,6 +116,11 @@ const experience = {
       duration: "June 2023 - July 2023",
       description: "Indore",
     },
+    {
+      position: "MERN Developer Intern",
+      duration: "April 2025 - Present",
+      description: "Indore",
+    },
   ],
 };
 
