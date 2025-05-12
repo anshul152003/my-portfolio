@@ -112,12 +112,17 @@ const experience = {
     "Experienced in building end-to-end web solutions and collaborating with cross-functional teams to deliver reliable and user-centric applications.",
   items: [
     {
-      position: "MERN Developer Intern",
+      position: "MERN Developer Intern - Dr Reddy Foundation",
       duration: "April 2025 - Present",
       description: "Indore",
     },
     {
-      position: "Web Design & Development Intern",
+      position: "Web Design & Development Intern - Oasis Infobyte",
+      duration: "May 2023 - June 2023",
+      description: "Indore",
+    },
+    {
+      position: "Data Analytics Intern - AICTE",
       duration: "June 2023 - July 2023",
       description: "Indore",
     },
@@ -160,7 +165,7 @@ const certificate = {
       institution: "NPTEL",
       degree: "Fundamentals of Object Oriented Programming",
       duration: "2025",
-      image: ""/assets/certificate/Fundamentals of Object Oriented Programming_page-0001.jpg"",
+      image: "/assets/certificate/Fundamentals of Object Oriented Programming_page-0001.jpg",
       link: "https://drive.google.com/file/d/1tfTyqHFfm8IVJppsTrW5_ffDA0nPy2FA/view?usp=sharing",
     },
     {
