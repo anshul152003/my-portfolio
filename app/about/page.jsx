@@ -117,13 +117,13 @@ const experience = {
       description: "Indore",
     },
     {
-      position: "Web Design & Development Intern - Oasis Infobyte",
-      duration: "May 2023 - June 2023",
+      position: "Data Analytics Intern - AICTE",
+      duration: "June 2023 - July 2023",
       description: "Indore",
     },
     {
-      position: "Data Analytics Intern - AICTE",
-      duration: "June 2023 - July 2023",
+      position: "Web Design & Development Intern - Oasis Infobyte",
+      duration: "May 2023 - June 2023",
       description: "Indore",
     },
   ],
