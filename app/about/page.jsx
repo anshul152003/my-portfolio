@@ -155,7 +155,14 @@ const certificate = {
   title: "My Certification",
   description:
     "Grounded in computer science fundamentals, my skills are further strengthened through specialized certifications that reflect my commitment to continuous learning.",
-  items: [
+  items: [ 
+    {
+      institution: "NPTEL",
+      degree: "Fundamentals of Object Oriented Programming",
+      duration: "2025",
+      image: ""/assets/certificate/Fundamentals of Object Oriented Programming_page-0001.jpg"",
+      link: "https://drive.google.com/file/d/1tfTyqHFfm8IVJppsTrW5_ffDA0nPy2FA/view?usp=sharing",
+    },
     {
       institution: "EduSkills Academy",
       degree: "Java Full Stack",
