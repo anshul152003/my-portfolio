@@ -112,13 +112,13 @@ const experience = {
     "Experienced in building end-to-end web solutions and collaborating with cross-functional teams to deliver reliable and user-centric applications.",
   items: [
     {
-      position: "Web Design & Development Intern",
-      duration: "June 2023 - July 2023",
+      position: "MERN Developer Intern",
+      duration: "April 2025 - Present",
       description: "Indore",
     },
     {
-      position: "MERN Developer Intern",
-      duration: "April 2025 - Present",
+      position: "Web Design & Development Intern",
+      duration: "June 2023 - July 2023",
       description: "Indore",
     },
   ],
