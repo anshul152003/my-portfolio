@@ -76,7 +76,8 @@ const skills = {
     {
       icon: <SiFirebase />,
       name: "Firebase",
-    },
+    }, 
+    /*
     {
       icon: <FaNodeJs />,
       name: "Node.js",
@@ -84,7 +85,7 @@ const skills = {
     {
       icon: <SiExpress />,
       name: "Express.js",
-    },
+    }, */
     {
       icon: <TbBrandCpp />,
       name: "Cpp",
