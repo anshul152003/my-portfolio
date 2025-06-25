@@ -55,7 +55,7 @@ const projects = [
     stack: [{ name: "JavaScript" },{ name: "HTML" },{ name: "CSS" }],
     image: "/assets/projects/thumb4.png",
     live: "https://safe-message.vercel.app/",
-    github: "https://github.com/anshul152003/Message-Encryption-Decryption-System.git",
+    github: "https://github.com/anshul152003/SafeMessage.git",
   },
   {
     num: "06",
