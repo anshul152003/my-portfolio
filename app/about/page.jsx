@@ -169,13 +169,13 @@ const certificate = {
       image: "/assets/certificate/Fundamentals of Object Oriented Programming_page-0001.jpg",
       link: "https://drive.google.com/file/d/1tfTyqHFfm8IVJppsTrW5_ffDA0nPy2FA/view?usp=sharing",
     },
-    {
-      institution: "EduSkills Academy",
-      degree: "Java Full Stack",
-      duration: "2025",
-      image: "/assets/certificate/Java-FullStack-EduSkill.jpg",
-      link: "https://drive.google.com/file/d/1duOoQF3HVF9X_unTdUDeVaDVDU3jEqaJ/view?usp=sharing",
-    },
+    // {
+    //   institution: "EduSkills Academy",
+    //   degree: "Java Full Stack",
+    //   duration: "2025",
+    //   image: "/assets/certificate/Java-FullStack-EduSkill.jpg",
+    //   link: "https://drive.google.com/file/d/1duOoQF3HVF9X_unTdUDeVaDVDU3jEqaJ/view?usp=sharing",
+    // },
     {
       institution: "HackerRank",
       degree: "Frontend Developer",
