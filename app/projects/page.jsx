@@ -53,7 +53,7 @@ const projects = [
     title: "SafeMessage - A encrypt-decrypt web app",
     description: "A web utility for securely encrypting and decrypting text messages, ensuring user confidentiality through a clean, minimal interface.",
     stack: [{ name: "JavaScript" },{ name: "HTML" },{ name: "CSS" }],
-    image: "/assets/projects/thumb4.png",
+    image: "/assets/projects/thumb-7.png",
     live: "https://safe-message.vercel.app/",
     github: "https://github.com/anshul152003/SafeMessage.git",
   },
