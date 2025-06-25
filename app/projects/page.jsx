@@ -34,7 +34,7 @@ const projects = [
     description: "A full-stack video conferencing platform with mood tracking features, built using ZegoCloud and Firebase for real-time communication and adaptive media streaming.",
     stack: [{ name: "TypeScript" }, { name: "TailwindCSS" }, { name: "Firebase" }, {name: "ZegoCloud"}],
     image: "/assets/projects/thumb2.jpg",
-    live: "https://insighttalk.netlify.app/login",
+    live: "https://vision-talk-lac.vercel.app/",
     github: "https://github.com/anshul152003/VisionTalk.git",
   },
   {
@@ -50,11 +50,11 @@ const projects = [
   {
     num: "05",
     category: "frontend",
-    title: "Encrypt-Decrypt",
+    title: "SafeMessage - A encrypt-decrypt web app",
     description: "A web utility for securely encrypting and decrypting text messages, ensuring user confidentiality through a clean, minimal interface.",
     stack: [{ name: "JavaScript" },{ name: "HTML" },{ name: "CSS" }],
     image: "/assets/projects/thumb4.png",
-    live: "https://message-encryption-decryption-system.vercel.app/",
+    live: "https://safe-message.vercel.app/",
     github: "https://github.com/anshul152003/Message-Encryption-Decryption-System.git",
   },
   {
