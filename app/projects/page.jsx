@@ -35,7 +35,7 @@ const projects = [
     stack: [{ name: "TypeScript" }, { name: "TailwindCSS" }, { name: "Firebase" }, {name: "ZegoCloud"}],
     image: "/assets/projects/thumb2.jpg",
     live: "https://vision-talk-lac.vercel.app/",
-    github: "https://github.com/anshul152003/VisionTalk.git",
+    github: "https://github.com/anshul152003/Vision-Talk.git",
   },
   {
     num: "04",
