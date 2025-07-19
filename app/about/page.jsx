@@ -7,6 +7,15 @@ import { BiLogoJava } from "react-icons/bi";
 import { IoLogoJavascript } from "react-icons/io5";
 import { GrMysql } from "react-icons/gr";
 import { TbBrandCpp } from "react-icons/tb";
+import { RiCodeBoxFill } from "react-icons/ri";
+import { SiMongodb } from "react-icons/si";
+import { FaGithub } from "react-icons/fa";
+import { SiVisualstudiocode } from "react-icons/si";
+import { SiEclipseide } from "react-icons/si";
+import { FaAws } from "react-icons/fa";
+import { SiPostman } from "react-icons/si";
+import { MdOutlineCloud } from "react-icons/md";
+import { GiDatabase } from "react-icons/gi";
 
 import {
   SiTailwindcss,
