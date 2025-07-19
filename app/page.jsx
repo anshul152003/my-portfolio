@@ -69,7 +69,7 @@ const Home = () => {
                 initial="hidden"
                 whileInView={"show"}
                 viewport={{ once: false, amount: 0.2 }}
-                href="https://drive.google.com/file/d/1Q5ZfFI1dPW11GRqsiUG-gml8vyHQguHM/view?usp=sharing"
+                href="https://drive.google.com/file/d/1mkfVdIo-KA8krbjDCpDF4WownCIr4wDk/view?usp=sharing"
                 target="_blank"
                 download
                 aria-label="Download My CV"
