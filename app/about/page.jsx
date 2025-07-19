@@ -65,43 +65,24 @@ const skills = {
   description:
     "I specialize in creating responsive and user-focused web applications, combining clean design with efficient functionality to deliver smooth and impactful digital experiences.",
   skillList: [
-    {
-      icon: <FaReact />,
-      name: "React.js",
-    },
-    {
-      icon: <SiTailwindcss />,
-      name: "TailwindCSS",
-    },
-    {
-      icon: <SiFirebase />,
-      name: "Firebase",
-    }, 
-    /*
-    {
-      icon: <FaNodeJs />,
-      name: "Node.js",
-    },
-    {
-      icon: <SiExpress />,
-      name: "Express.js",
-    }, */
-    {
-      icon: <TbBrandCpp />,
-      name: "Cpp",
-    },
-    {
-      icon: <BiLogoJava />,
-      name: "Java",
-    },
-    {
-      icon: <IoLogoJavascript />,
-      name: "JavaScript",
-    },
-    {
-      icon: <GrMysql />,
-      name: "MySQL",
-    },
+  { icon: <BiLogoJava />, name: "Java" },
+  { icon: <TbBrandCpp />, name: "C++" },
+  { icon: <IoLogoJavascript />, name: "JavaScript" },
+  { icon: <FaReact />, name: "React.js" },
+  { icon: <SiTailwindcss />, name: "TailwindCSS" },
+  { icon: <FaNodeJs />, name: "Node.js" },
+  { icon: <SiExpress />, name: "Express.js" },
+  { icon: <RiCodeBoxFill />, name: "REST APIs" },
+  { icon: <GrMysql />, name: "MySQL" },
+  { icon: <SiMongodb />, name: "MongoDB" },
+  { icon: <FaGithub />, name: "GitHub" },
+  { icon: <SiVisualstudiocode />, name: "VS Code" },
+  { icon: <SiEclipseide />, name: "Eclipse" },
+  { icon: <FaAws />, name: "AWS" },
+  { icon: <SiPostman />, name: "Postman" },
+  { icon: <RiCodeBoxFill />, name: "OOPs" },
+  { icon: <GiDatabase />, name: "DBMS" },
+  { icon: <MdOutlineCloud />, name: "Cloud Computing" },
   ],
 };
 
@@ -163,19 +144,19 @@ const certificate = {
     "Grounded in computer science fundamentals, my skills are further strengthened through specialized certifications that reflect my commitment to continuous learning.",
   items: [ 
     {
+      institution: "Java (Basic)",
+      degree: "HackerRank",
+      duration: "2025",
+      image: "/assets/certificate/Java-(Basic).jpg",
+      link: "https://www.hackerrank.com/certificates/c40e9e35a0b1",
+    },
+    {
       institution: "NPTEL",
       degree: "Fundamentals of Object Oriented Programming",
       duration: "2025",
       image: "/assets/certificate/Fundamentals of Object Oriented Programming_page-0001.jpg",
       link: "https://drive.google.com/file/d/1tfTyqHFfm8IVJppsTrW5_ffDA0nPy2FA/view?usp=sharing",
     },
-    // {
-    //   institution: "EduSkills Academy",
-    //   degree: "Java Full Stack",
-    //   duration: "2025",
-    //   image: "/assets/certificate/Java-FullStack-EduSkill.jpg",
-    //   link: "https://drive.google.com/file/d/1duOoQF3HVF9X_unTdUDeVaDVDU3jEqaJ/view?usp=sharing",
-    // },
     {
       institution: "HackerRank",
       degree: "Frontend Developer",
